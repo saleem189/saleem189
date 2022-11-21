@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Saleem189 and i am a full-stack software developer 
+My name is Saleem and i am a full-stack software developer 
 <!--
 **saleem189/saleem189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
