@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Master's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Graduate 
 - 🔭 I’m currently working on Blockchain
+- :office: Work's at [@Orhan-Tech](https://github.com/Orhan-Tech) as a Full-stack Laravel Developer
 - :man_technologist: Laravel Developer 
 
 📫 How to reach me: 
