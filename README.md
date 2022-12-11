@@ -1,3 +1,8 @@
+<p align="center">
+  <img src= "https://komarev.com/ghpvc/?username=saleem189&style=for-the-badge">
+</p>
+
+
 ### Hi there 👋
 <!-- My name is Saleem and i am a full-stack software developer  -->
 
