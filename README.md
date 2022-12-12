@@ -9,7 +9,7 @@ From: 10 December 2022 - To: 11 December 2022
 
 Total Time: 10 mins
 
-PHP   10 mins         █████████████████████████   100.00 %
+PHP   10 mins         #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
