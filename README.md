@@ -54,4 +54,13 @@ Languages and tools:
 ![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 10 December 2022 - To: 11 December 2022
+
+Total Time: 10 mins
+
+PHP   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
