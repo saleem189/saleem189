@@ -2,17 +2,6 @@
   <img src= "https://komarev.com/ghpvc/?username=saleem189&style=for-the-badge">
 </p>
 <p align="center">
-<!--START_SECTION:waka-->
-
-```text
-From: 10 December 2022 - To: 11 December 2022
-
-Total Time: 10 mins
-
-PHP   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
-
-<!--END_SECTION:waka-->
 </p>
 
 <!-- My name is Saleem and i am a full-stack software developer  -->
