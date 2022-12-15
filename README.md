@@ -7,7 +7,6 @@
 <!-- My name is Saleem and i am a full-stack software developer  -->
 
 ![saleem-banner](https://user-images.githubusercontent.com/75361545/205715331-9892fb85-bd6c-4836-b103-bf36e969e086.png)
-
 <!--
 **saleem189/saleem189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
