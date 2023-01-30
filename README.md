@@ -2,6 +2,7 @@
   <img src= "https://komarev.com/ghpvc/?username=saleem189&style=for-the-badge">
 </p>
 <p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!+I+am+Saleem+Ayoub+Khan;i+am+full-stack+software+engineer;from+Pakistan+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 </p>
 
 
