@@ -2,7 +2,7 @@
   <img src= "https://komarev.com/ghpvc/?username=saleem189&style=for-the-badge">
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!+I+am+Saleem+Ayoub+Khan;i+am+full-stack+software+engineer;from+Pakistan+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+!+I+am+Saleem+Ayoub+Khan;i+am+a+software+engineer;from+Pakistan+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 <!-- ![saleem-banner](https://user-images.githubusercontent.com/75361545/205715331-9892fb85-bd6c-4836-b103-bf36e969e086.png) -->
