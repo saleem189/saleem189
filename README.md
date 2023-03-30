@@ -27,6 +27,8 @@ Languages and tools:
 [![Saleem Ayoub Khan](https://github-readme-stats.vercel.app/api?username=saleem189&count_private=true&show_icons=true&theme=light)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/saleem189/saleem189)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleem189&count_private=true&show_icons=true&theme=light&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/saleem189/saleem189))
 
 ---
-![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg)
+
+![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
