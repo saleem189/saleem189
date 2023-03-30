@@ -29,6 +29,6 @@ Languages and tools:
 ---
 
 ![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!-- ![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/saleem189/saleem189/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 
 
