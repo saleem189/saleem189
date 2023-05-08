@@ -11,8 +11,10 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 Engineer
 - 🎓 Master's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (MSc) Graduate 
-- 🔭 I’m currently working on Blockchain
-- :office: Work's at [@Orhan-Tech](https://github.com/Orhan-Tech) as a Software Engineer (Laravel developer -fullstack)
+- 🔭 worked on Blockchain, Javascript , Php , 🐍
+- Unleashing the power of the cloud: On a mission to master AWS! 😎
+- Embarking on an AWS adventure: Empowering myself with the future of cloud technology.
+- :office: Worked at [@Orhan-Tech](https://github.com/Orhan-Tech) as a Software Engineer (Laravel developer -fullstack) May-2022/May-2023
 
 📫 How to reach me: 
 >[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/saleem-ayoub-20bb581b8/) [![facebook](https://user-images.githubusercontent.com/75361545/205706992-d80cc626-4377-4e5b-b359-890963f60a43.png)](https://www.facebook.com/people/Saleem-Ayub-Khan/100007867452421/)  [![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](mailto:saleemayoub1@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
