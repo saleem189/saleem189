@@ -7,15 +7,23 @@
 
 <!-- ![saleem-banner](https://user-images.githubusercontent.com/75361545/205715331-9892fb85-bd6c-4836-b103-bf36e969e086.png) -->
 
+⚠️ Personal account alert! Expect occasional bursts of coding creativity mixed with a sprinkle of humor. No shock required; I save that for the company accounts on Git!
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 Engineer
-- 🎓 Master's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (MSc) Graduate 
-- 🔭 worked on Blockchain, Javascript , Php , 🐍
-- Unleashing the power of the cloud: On a mission to master AWS! 😎
-- Embarking on an AWS adventure: Empowering myself with the future of cloud technology.
-- :office: Worked at [@Orhan-Tech](https://github.com/Orhan-Tech) as a Software Engineer (Laravel developer -fullstack) May-2022/May-2023
+## :book: About Me
+- 🖥 Laravel Sorcerer (Because coding sometimes feels like magic!) ---Laravel Engineer
+- 🎓 Master's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (MSc) Graduate
+- 🎉 Bringing joy to users with Laravel wizardry and whimsical code
+- 🌈 Painting the digital world with colorful, scalable solutions
+- 💥 Code ninja by day, cloud superhero by night
+- 🤖 Embracing the chaos of technology, one bug at a time!
+- 🔭 Worked extensively with Laravel framework, specializing in design patterns, APIs, and Inertia.js
+- 🌐 Experienced in building RESTful APIs and integrating third-party services
+- 🚀 Passionate about optimizing performance and enhancing user experience through efficient coding practices
+- 💻 Skilled in deploying and managing Laravel applications on cloud platforms like AWS
+- 🚀 Launching Laravel rockets into the cloud with AWS mastery
+- 💻 404 Error: Sense of humor not found (just kidding!)
 
+  
 📫 How to reach me: 
 >[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/saleem-ayoub-20bb581b8/) [![facebook](https://user-images.githubusercontent.com/75361545/205706992-d80cc626-4377-4e5b-b359-890963f60a43.png)](https://www.facebook.com/people/Saleem-Ayub-Khan/100007867452421/)  [![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](mailto:saleemayoub1@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
