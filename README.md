@@ -23,6 +23,12 @@
 - 🚀 Launching Laravel rockets into the cloud with AWS mastery
 - 💻 404 Error: Sense of humor not found (just kidding!)
 
+## 🌟 My Open Source Projects
+
+- [LaravelShoppingcart](https://github.com/darryldecode/laravelshoppingcart): A flexible shopping cart package for Laravel, providing a simple and fluent API for e-commerce applications.
+  ![Stars](https://img.shields.io/github/stars/darryldecode/laravelshoppingcart?style=social)
+  ![Forks](https://img.shields.io/github/forks/darryldecode/laravelshoppingcart?style=social)
+
   
 📫 How to reach me: 
 >[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/saleem-ayoub-20bb581b8/) [![facebook](https://user-images.githubusercontent.com/75361545/205706992-d80cc626-4377-4e5b-b359-890963f60a43.png)](https://www.facebook.com/people/Saleem-Ayub-Khan/100007867452421/)  [![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](mailto:saleemayoub1@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
