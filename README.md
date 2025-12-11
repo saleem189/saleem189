@@ -46,7 +46,6 @@ Languages and tools:
 
 <!--  Stats sections  -->
 
-[![Saleem Ayoub Khan](https://github-readme-stats.vercel.app/api?username=saleem189&count_private=true&show_icons=true&theme=light)]
 
 ---
 
