@@ -36,7 +36,7 @@
 
   
 📫 How to reach me: 
->[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/saleem-ayoub-20bb581b8/) [![facebook](https://user[...])
+>[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/saleem-ayoub-20bb581b8/)
 
 <!--  Tools sections  -->
 Languages and tools:
